@@ -1,2 +1,1 @@
-
-hiiieheifi
+print("Hello world")
