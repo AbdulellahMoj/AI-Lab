@@ -20,4 +20,5 @@ Feel free to explore the repository, provide feedback, or contribute!
 ---
 
 ## 📫 Contact  
-- **X 'twitter'**: (abdulellahmoj)[https://x.com/abdulellahmoj]
+- **X 'twitter'**:
+(abdulellahmoj)[https://x.com/abdulellahmoj]
